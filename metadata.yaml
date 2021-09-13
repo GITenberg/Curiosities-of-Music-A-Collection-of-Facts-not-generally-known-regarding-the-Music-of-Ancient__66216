@@ -1,0 +1,28 @@
+_repo: Curiosities-of-Music-A-Collection-of-Facts-not-generally-known-regarding-the-Music-of-Ancient__66216
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elson, Louis C.
+    gutenberg_agent_id: '53686'
+    url: http://www.gutenberg.org/2009/agents/53686
+description: ''
+gutenberg_issued: '2021-09-04'
+identifiers:
+  gutenberg: '66216'
+language: en
+pgterms:marc904: https://archive.org/details/curiositiesofmus00elsoiala
+pgterms:marc905: 20201104133133elson
+pgterms:marc906: '1880'
+pgterms:marc907: US
+production_note: Turgut Dincer, Stephen Hutcheson, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Oliver Ditson Company,1880,copyright 1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Curiosities of Music: A Collection of Facts not generally known, regarding
+  the Music of Ancient and Savage Nations'
+url: http://www.gutenberg.org/ebooks/66216
